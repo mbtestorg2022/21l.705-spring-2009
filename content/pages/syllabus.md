@@ -51,13 +51,66 @@ As is usual in seminar settings, you are required to attend all class meetings a
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Journals | 10% |
-| Report | 10% |
-| Short essay | 20% |
-| Long essay | 50% |
-| Participation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Journals
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Report
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short essay
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Long essay
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 MIT Literature Statement on Plagiarism
 --------------------------------------
@@ -67,31 +120,413 @@ Plagiarism—use of another's intellectual work without acknowledgement—is a s
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introductions: first 100 lines of _Paradise Lost_ | &nbsp; |
-| 2 |  {{< br >}}{{< br >}} Milton. _Paradise Lost_, Book I {{< br >}}{{< br >}} Lewis. _Preface to Paradise Lost_, chapters 7-8 {{< br >}}{{< br >}}  | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} _Paradise Lost_, Book II {{< br >}}{{< br >}} Lewis. _Preface to Paradise Lost_, chapters 9-11 {{< br >}}{{< br >}}  | Journals due |
-| 4 | Lewis. _The Lion, the Witch, and the Wardrobe_ | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} _Paradise Lost_, Book III, {{< br >}}{{< br >}} Empson. "Heaven" {{< br >}}{{< br >}}  | Journals due |
-| 6 |  {{< br >}}{{< br >}} _Paradise Lost_, Book IV {{< br >}}{{< br >}} Nyquist. "Gynesis, Genesis, Exegesis," Parts I-IV {{< br >}}{{< br >}}  | Journals due |
-| 7 | Lewis. _Perelandra_ | &nbsp; |
-| 8 |  {{< br >}}{{< br >}} _Paradise Lost_, Book IV (cont.) {{< br >}}{{< br >}} Nyquist. Parts V-VII {{< br >}}{{< br >}}  | Journals due |
-| 9 | Lewis. _Perelandra_ (cont.) | &nbsp; |
-| 10 |  {{< br >}}{{< br >}} _Paradise Lost_, Book V {{< br >}}{{< br >}} Fish. "The Milk of the Pure Word" {{< br >}}{{< br >}}  | Journals due |
-| 11 | Philip Pullman. _Golden Compass_ | &nbsp; |
-| 12 |  {{< br >}}{{< br >}} _Paradise Lost_, Book VI {{< br >}}{{< br >}} Kerrigan. "'One First Matter All': Spirit as Energy" {{< br >}}{{< br >}}  | &nbsp; |
-| 13 | Pullman. _Golden Compass_ | Short essay due |
-| 14 |  {{< br >}}{{< br >}} _Paradise Lost_, Book VII {{< br >}}{{< br >}} Rumrich 1. "Uninventing Milton" {{< br >}}{{< br >}} ———. "Radical Heterodoxy" {{< br >}}{{< br >}}  | Journals on Milton or Pullma due |
-| 15 | Pullman. _Subtle Knife_ | Journals due |
-| 16 |  {{< br >}}{{< br >}} _Paradise Lost_, Book VIII {{< br >}}{{< br >}} Flesch. "The Majesty of Darkness" {{< br >}}{{< br >}}  | Journals due |
-| 17 | Pullman. _Subtle Knife_ (cont.) |  {{< br >}}{{< br >}} Proposal and bibliography due {{< br >}}{{< br >}} Journals due {{< br >}}{{< br >}}  |
-| 18 |  {{< br >}}{{< br >}} _Paradise Lost_, Book IX {{< br >}}{{< br >}} Gross. "Satan and Romantic Satan" {{< br >}}{{< br >}}  | &nbsp; |
-| 19 | Pullman. _Amber Spyglass_ | &nbsp; |
-| 20 | Pullman. _Amber Spyglass_ (cont.) | Journals due |
-| 21 |  {{< br >}}{{< br >}} _Paradise Lost_, Book X {{< br >}}{{< br >}} Parker. "Eve, Evening, and the Labor of Reading" in _Paradise Lost_ {{< br >}}{{< br >}}  | Last Journals due |
-| 22 | Field trip to Boston public library | &nbsp; |
-| 23 | In-class presentations | Rough draft due |
-| 24 | In-class presentations (cont.) | &nbsp; |
-| 25 |  {{< br >}}{{< br >}} _Paradise Lost_, Book XI {{< br >}}{{< br >}} Grossman. "Milton's Dialectic Vision" {{< br >}}{{< br >}}  | &nbsp; |
-| 26 | _Paradise Lost_, Book XII | Seminar paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introductions: first 100 lines of _Paradise Lost_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Milton. _Paradise Lost_, Book I
+
+Lewis. _Preface to Paradise Lost_, chapters 7-8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, Book II
+
+Lewis. _Preface to Paradise Lost_, chapters 9-11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Journals due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Lewis. _The Lion, the Witch, and the Wardrobe_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, Book III,
+
+Empson. "Heaven"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Journals due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, Book IV
+
+Nyquist. "Gynesis, Genesis, Exegesis," Parts I-IV
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Journals due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Lewis. _Perelandra_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, Book IV (cont.)
+
+Nyquist. Parts V-VII
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Journals due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Lewis. _Perelandra_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, Book V
+
+Fish. "The Milk of the Pure Word"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Journals due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Philip Pullman. _Golden Compass_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, Book VI
+
+Kerrigan. "'One First Matter All': Spirit as Energy"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Pullman. _Golden Compass_
+{{< tdclose >}}
+{{< tdopen >}}
+Short essay due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, Book VII
+
+Rumrich 1. "Uninventing Milton"
+
+———. "Radical Heterodoxy"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Journals on Milton or Pullma due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Pullman. _Subtle Knife_
+{{< tdclose >}}
+{{< tdopen >}}
+Journals due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, Book VIII
+
+Flesch. "The Majesty of Darkness"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Journals due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Pullman. _Subtle Knife_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Proposal and bibliography due
+
+Journals due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, Book IX
+
+Gross. "Satan and Romantic Satan"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Pullman. _Amber Spyglass_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Pullman. _Amber Spyglass_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Journals due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, Book X
+
+Parker. "Eve, Evening, and the Labor of Reading" in _Paradise Lost_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Last Journals due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip to Boston public library
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+In-class presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Rough draft due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+In-class presentations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, Book XI
+
+Grossman. "Milton's Dialectic Vision"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+_Paradise Lost_, Book XII
+{{< tdclose >}}
+{{< tdopen >}}
+Seminar paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

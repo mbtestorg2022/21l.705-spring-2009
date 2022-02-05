@@ -71,28 +71,435 @@ Related Background Materials
 [Marshall Grossman, "Milton's Dialectic Visions"](http://www.jstor.org/action/showJournals?cookieSet=1)  
 \[This link connects you to the Library's JSTOR service. Enter "Milton's Dialectical Visions" in the Search box.\]
 
-| SES # | READINGS |
-| --- | --- |
-|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Introductions: first 100 lines of _Paradise Lost_ {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Milton. _Paradise Lost_, Book I {{< br >}}{{< br >}} Lewis. _Preface to Paradise Lost_, chapters 7-8 {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Paradise Lost_, Book II {{< br >}}{{< br >}} Lewis. _Preface to Paradise Lost_, chapters 9-11 {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lewis. _The Lion, the Witch, and the Wardrobe_ {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Paradise Lost_ Book III, {{< br >}}{{< br >}} Empson. "Heaven" {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Paradise Lost_, Book IV {{< br >}}{{< br >}} Nyquist. "Gynesis, Genesis, Exegesis," Parts I-IV {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lewis. _Perelandra_ {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Paradise Lost_, Book IV {{< br >}}{{< br >}} Nyquist. Parts V-VII {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lewis. _Perelandra_ {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Paradise Lost_, Book V {{< br >}}{{< br >}} Fish. "The Milk of the Pure Word" {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Philip Pullman. _Golden Compass_ {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 12 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Paradise Lost_. Book VI {{< br >}}{{< br >}} Kerrigan. "'One First Matter All': Spirit as Energy" {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 13 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Pullman. _Golden Compass_ {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 14 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Paradise Lost_. Book VII {{< br >}}{{< br >}} Rumrich 1. "Uninventing Milton" {{< br >}}{{< br >}} \---. "Radical Heterodoxy" {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 15 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Pullman. _Subtle Knife_ {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 16 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Paradise Lost_, Book VIII {{< br >}}{{< br >}} Flesch. "The Majesty of Darkness" {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 17 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Pullman. _Subtle Knife_ {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 18 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Paradise Lost_, Book IX {{< br >}}{{< br >}} Gross. "Satan and Romantic Satan" {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 19 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Pullman. _Amber Spyglass_ {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 20 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Pullman. _Amber Spyglass_ {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 21 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Paradise Lost_. Book X {{< br >}}{{< br >}} Parker. "Eve, Evening, and the Labor of Reading" In _Paradise Lost_ {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 25 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Paradise Lost_, Book XI {{< br >}}{{< br >}} Grossman. "Milton’s Dialectic Vision" {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 26 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Paradise Lost_, Book XII {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introductions: first 100 lines of _Paradise Lost_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Milton. _Paradise Lost_, Book I
+
+Lewis. _Preface to Paradise Lost_, chapters 7-8
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, Book II
+
+Lewis. _Preface to Paradise Lost_, chapters 9-11
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lewis. _The Lion, the Witch, and the Wardrobe_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_ Book III,
+
+Empson. "Heaven"
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, Book IV
+
+Nyquist. "Gynesis, Genesis, Exegesis," Parts I-IV
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lewis. _Perelandra_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, Book IV
+
+Nyquist. Parts V-VII
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lewis. _Perelandra_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, Book V
+
+Fish. "The Milk of the Pure Word"
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Philip Pullman. _Golden Compass_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+12
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_. Book VI
+
+Kerrigan. "'One First Matter All': Spirit as Energy"
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+13
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Pullman. _Golden Compass_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+14
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_. Book VII
+
+Rumrich 1. "Uninventing Milton"
+
+\---. "Radical Heterodoxy"
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+15
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Pullman. _Subtle Knife_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+16
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, Book VIII
+
+Flesch. "The Majesty of Darkness"
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+17
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Pullman. _Subtle Knife_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+18
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, Book IX
+
+Gross. "Satan and Romantic Satan"
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+19
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Pullman. _Amber Spyglass_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+20
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Pullman. _Amber Spyglass_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+21
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_. Book X
+
+Parker. "Eve, Evening, and the Labor of Reading" In _Paradise Lost_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+25
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, Book XI
+
+Grossman. "Milton’s Dialectic Vision"
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+26
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Paradise Lost_, Book XII
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
