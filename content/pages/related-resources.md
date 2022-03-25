@@ -25,7 +25,7 @@ Blake's and Donne's "Golden Compasses" ([PDF]({{< baseurl >}}/resources/mit21l_7
 [Catholic Encyclopedia](http://www.newadvent.org/cathen/)  
 \[A useful resource for questions about Christian belief, even though Milton was not Catholic.\]
 
-Early editions: 1667a (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21l_705s09_early_1667a)), 1668a (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21l_705s09_early_1668a)), 1668b (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21l_705s09_early_1668b)), and 1674 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21l_705s09_early_1674)) — Title pages and front matter for Book I from different years.
+Early editions: 1667a ([PDF]({{< baseurl >}}/resources/mit21l_705s09_early_1667a)), 1668a ([PDF]({{< baseurl >}}/resources/mit21l_705s09_early_1668a)), 1668b ([PDF]({{< baseurl >}}/resources/mit21l_705s09_early_1668b)), and 1674 ([PDF]({{< baseurl >}}/resources/mit21l_705s09_early_1674)) — Title pages and front matter for Book I from different years.
 
 John Dryden, "[State of Innocence](http://jacklynch.net/Texts/stateinn.html)" — _Paradise Lost_ in rhymed verse, by Milton's younger contemporary. (Act 1, Scene 1.)
 
